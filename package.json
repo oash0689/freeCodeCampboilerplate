@@ -1,8 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Omorrow Ash",
 	"dependencies": {
 		"express": "^4.14.0",
-		"author": "Omorrow Ash"
 	},
 	"main": "server.js",
 	"scripts": {
